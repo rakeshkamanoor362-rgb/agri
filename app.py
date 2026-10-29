@@ -1703,5 +1703,4 @@ def weather():
         {'city': 'UP', 'temp': 20, 'feels': 19, 'humidity': 68, 'wind': 10, 'desc': 'Sunny', 'icon': 'sun'},
     ])
 
-if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000)
+
